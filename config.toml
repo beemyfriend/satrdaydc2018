@@ -118,7 +118,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "$25 for students<br> $50 for professionals<br> $100 for company-paid attendees"
+      description = "$25 for students<br> $50 for professionals"
       url = "#"
 
     [[params.services.row.list]]
